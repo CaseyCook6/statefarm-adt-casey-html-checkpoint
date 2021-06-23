@@ -14,12 +14,14 @@ body {
 footer {
     text-align: center;
     padding: 15px;
+    background: #C0C0C0;
 }
 
 nav {
     text-align: center;
     font-size: large;
     padding: 15px;
+    background: #B7DCB9
     
 }
 
@@ -27,6 +29,4 @@ nav {
     padding: 10px
 }
 
-section {
-    margin: 25px
-}
+
