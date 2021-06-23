@@ -22,11 +22,14 @@ nav {
     font-size: large;
     padding: 15px;
     background: #B7DCB9
-    
 }
 
 .firstNav, .secondNav {
     padding: 10px
+}
+
+.firstNav:hover, .secondNav:hover {
+    background-color: #157200
 }
 
 
