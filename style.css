@@ -1,0 +1,32 @@
+header {
+    color: #157200;
+    background: #C0C0C0;
+    padding: 25px;
+    text-align: center;
+    font-family: helvetica;
+    font-size: x-large;
+}
+
+body {
+    font-family: helvetica;
+}
+
+footer {
+    text-align: center;
+    padding: 15px;
+}
+
+nav {
+    text-align: center;
+    font-size: large;
+    padding: 15px;
+    
+}
+
+.firstNav, .secondNav {
+    padding: 10px
+}
+
+section {
+    margin: 25px
+}
