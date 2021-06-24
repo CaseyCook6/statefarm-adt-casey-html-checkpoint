@@ -40,6 +40,12 @@ th {
     height: 40px;
 }
 
-#underlinedP{
+#underlinedP {
     text-decoration: underline;
+}
+
+#homeLink {
+    margin-left: 50px;
+    margin-bottom: 200px;
+    padding-bottom: 50px
 }
