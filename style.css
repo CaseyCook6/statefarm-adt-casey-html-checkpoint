@@ -9,6 +9,7 @@ header {
 
 body {
     font-family: helvetica;
+    margin:0px
 }
 
 footer {
@@ -21,15 +22,16 @@ nav {
     text-align: center;
     font-size: large;
     padding: 15px;
-    background: #B7DCB9
+    background: #B7DCB9;
 }
 
 .firstNav, .secondNav {
-    padding: 10px
+    padding: 10px;
+    color:black;   
 }
 
 .firstNav:hover, .secondNav:hover {
-    background-color: #157200
+    color: #157200
 }
 
 
